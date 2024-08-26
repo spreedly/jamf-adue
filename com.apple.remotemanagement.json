@@ -1,8 +1,0 @@
-{
-  "Servers": [
-    {
-      "Version": "mdm-byod",
-      "BaseURL": "https://spreedly.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
-    }
-  ]
-}
